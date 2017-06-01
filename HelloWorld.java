@@ -5,7 +5,7 @@
 		Sytem.out.println("新开普");
 		Sysem.out.println("晋天正");
 
-		system.out.println("章中敏");；
+		system.out.println("章中敏");
 
 
 
