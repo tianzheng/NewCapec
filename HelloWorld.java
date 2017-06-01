@@ -15,8 +15,7 @@
         Sysem.out.println("张登辉");
         Sysem.out.println("孔季辉");
 		Sysem.out.println("周振");
-		Sysem.out.println("哈哈");
-
+		//注释：
 
 	}
 	
