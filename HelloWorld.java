@@ -9,7 +9,7 @@
 		Sysem.out.println("杨党生");
 		System.out.println("王峰振");
 
-Sysem.out.println("杜振威");
+		Sysem.out.println("杜振威");
 		Sysem.out.println("张宁");
 
 	}
