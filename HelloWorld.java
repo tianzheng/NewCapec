@@ -4,6 +4,7 @@
 		Sytem.out.println("NewCapec");
 		Sytem.out.println("新开普");
 		Sysem.out.println("晋天正");
+<<<<<<< HEAD
 
 		system.out.println("章中敏");
 
@@ -11,13 +12,16 @@
 
 		System.out.println("张宁");
 
+=======
+Sysem.out.println("张宁");
+>>>>>>> eb817425853c947d709b103cb8ac973587f316b0
 		Sysem.out.println("李颖杰");
-
+		Sysem.out.println("杨党生");
 		System.out.println("王峰振");
+        Sysem.out.println("张登辉");
+        Sysem.out.println("杜振威");
+		
 
-
-		System.out.println("张宁");
-		Sysem.out.println("李颖杰");
 
 	}
 	
