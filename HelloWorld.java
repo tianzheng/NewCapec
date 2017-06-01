@@ -7,9 +7,7 @@
 
 
 		System.out.println("张宁");
-
 		System.out.println("章中敏");
-
 		Sysem.out.println("李颖杰");
 		Sysem.out.println("杨党生");
 		System.out.println("王峰振");
